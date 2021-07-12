@@ -16,8 +16,7 @@ These GitHub Open Source Applications Terms and Conditions ("Application Terms")
 If you configure the Software to work with one or more accounts on the GitHub.com website or with an instance of GitHub Enterprise, your use of the Software will also be governed by your applicable GitHub.com website Terms of Service and/or the license agreement applicable to your instance of GitHub Enterprise ("GitHub Terms").
 
 Any use of the Software that violates your applicable GitHub Terms will also be a violation of these Application Terms.
-
-## Open Source Licenses and Notices
+Open Source Licenses and Notice
 
 The open source license for the Software is included in the "Open Source Notices" documentation that is included with the Software. That documentation also includes copies of all applicable open source licenses.
 
